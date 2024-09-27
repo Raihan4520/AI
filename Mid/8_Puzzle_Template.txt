@@ -1,0 +1,47 @@
+import random
+import copy
+
+
+def initialStateGenarator():
+    initialBoard = []
+
+    return initialBoard
+
+
+def actions(state):
+
+    return setOfAction
+
+
+def transitions(state, action):
+    
+    resultantState = copy.deepcopy(state)
+
+        
+    return resultantState
+
+
+
+def goalTest(state): 
+
+    return True
+
+def printState(state):
+    for row in state:
+        print(row)
+
+def eight_puzzle_solver():
+    initialState = initialStateGenarator()
+    printState(initialState)
+    actionSet = actions(initialState)
+    print("Possible Actions: ",actionSet)
+    print("Resultant State")
+    printState(transitions(initialState, actionSet[0]))
+    print(goalTest(initialState))
+    
+
+
+
+eight_puzzle_solver()
+
+
