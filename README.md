@@ -1,4 +1,4 @@
-# Artificial Intelligence and Expert System Course Codes
+# Artificial Intelligence (AI) and Expert System Course Codes
 
 This repository contains the code and assignments completed during the **Artificial Intelligence (AI)** course at **American International University - Bangladesh (AIUB)**. The repository serves as a collection of the various algorithms and techniques explored throughout the course.
 
