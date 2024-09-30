@@ -2,6 +2,10 @@
 
 This repository contains the code and assignments completed during the **Artificial Intelligence (AI)** course at **American International University - Bangladesh (AIUB)**. The repository serves as a collection of the various algorithms and techniques explored throughout the course.
 
+### Course Information
+For more details on the course, refer to the [AIUB Undergraduate Course Catalog](https://www.aiub.edu/faculties/fst/ug-course-catalog).  
+*Note: Search for "Artificial Intelligence and Expert System" for specific course information.*
+
 ## Table of Contents
 - [Overview](#overview)
 - [Course Topics Covered](#course-topics-covered)
