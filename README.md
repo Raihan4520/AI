@@ -58,7 +58,7 @@ To run the code provided in this repository:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Raihan4520/AI.git
+   https://github.com/Raihan4520/AI-And-Expert-System.git
 2. Navigate to the specific folder containing the code you want to execute.
 3. Install the necessary libraries using the following command:
    ```bash
